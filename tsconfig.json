@@ -29,7 +29,8 @@
     "components/Song.js",
     "components/Sidebar.js",
     "components/Player.js",
-    "components/Center.js"
+    "components/Center.js",
+    "pages/_middleware.js"
   ],
   "exclude": ["node_modules"]
 }
